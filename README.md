@@ -94,8 +94,6 @@ GIVEN a text editor web application
 
 ## Screen-Shots
 
-![]()
+![Home Page Screenshot](./client/src/images/homePage.JPG)
 
-![]()
-
-
+![Scripts Packages](./client/src/images/scriptsPackage.JPG)
