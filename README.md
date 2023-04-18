@@ -90,7 +90,7 @@ GIVEN a text editor web application
 
 [Github](https://github.com/PintoDrop/textedit)
 
-## Deployed Wesbite
+## Deployed-Website
 
 [Deployed Website]()
 
@@ -103,4 +103,5 @@ GIVEN a text editor web application
 
 <!-- 
 need to add to src/js/database & install
+might need work on the service worker code
  -->
