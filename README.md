@@ -16,7 +16,7 @@
 
 ## Description
 
-For this assignment I was given some starter code to add too. This assignment was to help finish creating and deployed a text editor that can be used on and offline by the user.
+For this assignment I was given some starter code to add too. This assignment was to help finish creating and deployed a text editor that can be used on and offline by the user. The user will be able to write code in a text editor in their browser that will also be saved to the page if they reloaded it. The user can also install the application so it could be used offline as well.
 
 ## Usage
 
@@ -74,9 +74,11 @@ GIVEN a text editor web application
 **WHEN I click on the Install button**
 *THEN I download my web application as an icon on my desktop*
 
+<!-- need? -->
 **WHEN I load my web application**
 *THEN I should have a registered service worker using workbox*
 
+<!-- need? -->
 **WHEN I register a service worker**
 *THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets*
 
@@ -97,3 +99,8 @@ GIVEN a text editor web application
 ![Home Page Screenshot](./client/src/images/homePage.JPG)
 
 ![Scripts Packages](./client/src/images/scriptsPackage.JPG)
+
+
+<!-- 
+need to add to src/js/database & install
+ -->
