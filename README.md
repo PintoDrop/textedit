@@ -16,9 +16,15 @@
 
 ## Description
 
+For this assignment I was given some starter code to add too. This assignment was to help finish creating and deployed a text editor that can be used on and offline by the user.
+
 ## Usage
 
+The user will be able to access the website and download an offline version. This application is a text editor that can be used to write test code in. The application can be installed on your local drive to use offline.
+
 ## Installation
+
+You will need to start by installing the npm packages for the webpack configurations.
 
 ## License
 
