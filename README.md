@@ -103,5 +103,5 @@ GIVEN a text editor web application
 
 <!-- 
 need to add to src/js/database & install
-might need work on the service worker code
+might need work on the service worker code (src-sw.js)
  -->
