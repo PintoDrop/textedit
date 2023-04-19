@@ -100,6 +100,8 @@ GIVEN a text editor web application
 
 ![Scripts Packages](./client/src/images/scriptsPackage.JPG)
 
+![Manifest Application Screenshot](./client/src/images/manifestApp.JPG)
+
 
 <!-- 
 need to add to src/js/database & install
