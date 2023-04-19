@@ -16,7 +16,7 @@
 
 ## Description
 
-For this assignment I was given some starter code to add too. This assignment was to help finish creating and deployed a text editor that can be used on and offline by the user. The user will be able to write code in a text editor in their browser that will also be saved to the page if they reloaded it. The user can also install the application so it could be used offline as well.
+For this assignment I was given some starter code for a installable text edit application that can be used to write test code. This assignment was to help finish creating and deployed a text editor that can be used on and offline by the user. The user will be able to write code in a text editor in their browser that will also be saved to the page if they reloaded it. The user can also install the application so it could be used offline as well.
 
 ## Usage
 
