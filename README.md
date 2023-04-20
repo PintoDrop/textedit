@@ -102,3 +102,5 @@ GIVEN a text editor web application
 ![Manifest Application Screenshot](./client/src/images/manifestApp.JPG)
 
 ![Service Worker App Screenshot](./client/src/images/serviceWorkApp.JPG)
+
+![Home Page Deployed Screenshot](./client/src/images/deployedHomepage.JPG)
