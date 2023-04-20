@@ -66,7 +66,7 @@ GIVEN a text editor web application
 *THEN I find that the content in the text editor has been saved with IndexedDB*
 
 <!-- good -->
-**WHEN I reopen the text editor after closing it**
+**WHEN I reopen the text editor after closing it**hero
 *THEN I find that the content in the text editor has been retrieved from our IndexedDB*
 
 <!-- need ? install button works but need local open  -->
@@ -91,7 +91,7 @@ GIVEN a text editor web application
 
 ## Deployed-Website
 
-[Deployed Website]()
+[Deployed Website](https://hidden-hamlet-64843.herokuapp.com/)
 
 ## Screen-Shots
 
