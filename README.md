@@ -1,6 +1,5 @@
 # Text Edit
 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## _Table Of Contents_
@@ -16,11 +15,11 @@
 
 ## Description
 
-For this assignment I was given some starter code for a installable text edit application that can be used to write test code. This assignment was to help finish creating and deployed a text editor that can be used on and offline by the user. The user will be able to write code in a text editor in their browser that will also be saved to the page if they reloaded it. The user can also install the application so it could be used offline as well.
+For this assignment I was given some starter code for a installable text edit application that can be used to write test code. This assignment was to help finish creating and deploy a text editor that can be used on and offline by the user. The user will be able to write code in a text editor in their browser that will also be saved to the page if they reloaded it. The user can also install the application so it could be used offline as well. The application uses a service worker and manifest as well as an index database to help store the users input.
 
 ## Usage
 
-The user will be able to access the website and download an offline version. This application is a text editor that can be used to write test code in. The application can be installed on your local drive to use offline.
+The user will be able to access the website and download an offline version. This application is a text editor that can be used to write test code in. The application can be installed on your local drive to use offline. When the user clicks off of the page, the information they have inputted is automatically saved to the database.
 
 ## Installation
 
