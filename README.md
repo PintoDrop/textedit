@@ -66,7 +66,7 @@ GIVEN a text editor web application
 *THEN I find that the content in the text editor has been saved with IndexedDB*
 
 <!-- good -->
-**WHEN I reopen the text editor after closing it**hero
+**WHEN I reopen the text editor after closing it**
 *THEN I find that the content in the text editor has been retrieved from our IndexedDB*
 
 <!-- need ? install button works but need local open  -->
