@@ -24,7 +24,7 @@ The user will be able to access the website and download an offline version. Thi
 
 ## Installation
 
-You will need to start by installing the npm packages for the webpack configurations.
+You will need to start by installing the npm packages for the webpack configurations after cloning the repo.
 
 ## License
 
@@ -62,7 +62,7 @@ GIVEN a text editor web application
 **WHEN I open the text editor**
 *THEN I find that IndexedDB has immediately created a database storage*
 
-<!-- need -->
+<!-- need?  -->
 **WHEN I enter content and subsequently click off of the DOM window**
 *THEN I find that the content in the text editor has been saved with IndexedDB*
 
@@ -74,7 +74,7 @@ GIVEN a text editor web application
 **WHEN I click on the Install button**
 *THEN I download my web application as an icon on my desktop*
 
-<!-- need? -->
+<!-- need? good-->
 **WHEN I load my web application**
 *THEN I should have a registered service worker using workbox*
 
@@ -103,6 +103,9 @@ GIVEN a text editor web application
 ![Manifest Application Screenshot](./client/src/images/manifestApp.JPG)
 
 ![Service Worker App Screenshot](./client/src/images/serviceWorkApp.JPG)
+
+
+
 <!-- 
 need to add to src/js/database & install
 might need work on the service worker code (src-sw.js)

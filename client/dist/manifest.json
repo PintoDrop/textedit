@@ -36,7 +36,7 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
-  "description": "Just Another Text Editor",
+  "description": "A text editor that can be used for coding purposes. This can be installed so you can use it offline.",
   "background_color": "#225ca3",
   "them_color": "#225ca3"
 }
