@@ -69,7 +69,6 @@ GIVEN a text editor web application
 **WHEN I reopen the text editor after closing it**
 *THEN I find that the content in the text editor has been retrieved from our IndexedDB*
 
-<!-- need ? install button works but need local open  -->
 **WHEN I click on the Install button**
 *THEN I download my web application as an icon on my desktop*
 
