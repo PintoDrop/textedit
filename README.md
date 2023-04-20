@@ -102,10 +102,3 @@ GIVEN a text editor web application
 ![Manifest Application Screenshot](./client/src/images/manifestApp.JPG)
 
 ![Service Worker App Screenshot](./client/src/images/serviceWorkApp.JPG)
-
-
-
-<!-- 
-need to add to src/js/database & install
-might need work on the service worker code (src-sw.js)
- -->
